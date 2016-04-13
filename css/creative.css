@@ -64,5 +64,15 @@ a:link{
 a:hover{
 	color: #F67425;
 }
-
-
+.background-section{
+	background-color: #F05F40;
+}
+.linea3 {
+	text-align: center;
+	width: 40px;
+	border-bottom:  white solid;
+	border-top: none;
+}
+.about{
+	padding: 20px;
+}
