@@ -1,7 +1,55 @@
 /* Inserta tu codigo CSS aqui */
-
+/*header*/
 
 .paisaje{
 	background-image: url(../img/header.jpg);
 	background-size: cover;
+	height: 1000px;
 }
+
+.container{
+	color:white;
+}
+
+.tit1{
+	color: white;
+	margin-top: 20px;
+}
+nav li{
+	list-style-type: none;
+	display: inline;
+	padding-right: 30px;
+	margin-right: 0%;
+	color:white;
+}
+ul{
+	text-align: end;
+}
+
+.linea1{
+	color: #DCDCDC
+}
+
+.container h3{
+	color: #DCDCDC;
+	padding-top: 50px;
+}
+
+.linea2 hr{
+	text-align: center;
+	width: 40px;
+	height: 2px;
+}
+
+.container h1{
+	margin-top: 200px;
+}
+
+.btn{
+
+	border-radius: 40px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+
