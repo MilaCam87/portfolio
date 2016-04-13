@@ -1,1 +1,7 @@
 /* Inserta tu codigo CSS aqui */
+
+
+.paisaje{
+	background-image: url(../img/header.jpg);
+	background-size: cover;
+}
